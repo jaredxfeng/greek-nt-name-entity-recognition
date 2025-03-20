@@ -1,0 +1,3 @@
+# pip install https://huggingface.co/chcaa/grc_odycy_joint_trf/resolve/main/grc_odycy_joint_trf-0.7.0-py3-none-any.whl
+
+pandas==2.2.3
